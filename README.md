@@ -18,6 +18,7 @@
 </p>
 
 </p>
+<!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fotkurz&show_icons=true&count_private=true&theme=synthwave" alt="fotkurz" />
 <p align="center">Thanks <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 <!---
