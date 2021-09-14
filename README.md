@@ -25,3 +25,5 @@
 Fotkurz/Fotkurz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![badget](https://img.shields.io/static/v1?label=BADGET&message=SecurityChampions&color=red)
