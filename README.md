@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <p align=center><img src='badgets/desenvolvimentoseguro.png' alt='badgets/desenvolvimentoseguro.png' width='160px' /></p>
 <p align=center><img src='badgets/desenvolvimentoseguro.png' alt='badgets/desenvolvimentoseguro.png' width='160px' /></p>
+<p align=center><img src='badgets/desenvolvimentoseguro.png' alt='badgets/desenvolvimentoseguro.png' width='160px' /></p>
