@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src='badgets/cloudsec.png' alt='badgets/cloudsec.png' width='160px' /><img src='badgets/desenvolvimento_seguro.png' alt='badgets/desenvolvimento_seguro.png' width='160px' />
+<img src='badgets/ssdlc.png' alt='badgets/ssdlc.png' width='160px' />
