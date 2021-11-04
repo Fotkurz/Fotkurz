@@ -26,5 +26,4 @@ Fotkurz/Fotkurz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<p align=center><img src='badgets/desenvolvimentoseguro.png' alt='badgets/desenvolvimentoseguro.png' width='160px' /></p><img src='badgets/cloudsec.png' alt='badgets/cloudsec.png' width='160px' />
+<img src='badgets/cloudsec.png' alt='badgets/cloudsec.png' width='160px' />
