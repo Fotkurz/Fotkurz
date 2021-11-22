@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/static/v1?label=Pandas&message=Level%2020&color=007396&logo=pandas&style=for-the-badge" />
 </p>
 
-</p>
 <!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fotkurz&show_icons=true&count_private=true&theme=synthwave" alt="fotkurz" />
 <p align="center">Thanks <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
