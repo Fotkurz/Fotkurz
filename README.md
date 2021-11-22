@@ -25,8 +25,3 @@
 Fotkurz/Fotkurz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-<img src='badgets/cloudsec.png' alt='badgets/cloudsec.png' width='160px' /><img src='badgets/desenvolvimento_seguro.png' alt='badgets/desenvolvimento_seguro.png' width='160px' />
-<img src='badgets/ssdlc.png' alt='badgets/ssdlc.png' width='160px' /><img src='badgets/regulatorios.png' alt='badgets/regulatorios.png' width='160px' /><img src='badgets/security_champion.png' alt='badgets/security_champion.png' width='160px' /><img src='badgets/security_champion.png' alt='badgets/security_champion.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' />
