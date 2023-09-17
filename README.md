@@ -5,25 +5,18 @@
 Languages I really like working with.
 
 <p align=center>
-<img src="https://img.shields.io/static/v1?label=Python&message=Level%2080&color=3776AB&logo=python&style=for-the-badge" />
-<img src="https://img.shields.io/static/v1?label=FastAPI&message=Level%2040&color=009688&logo=fastapi&style=for-the-badge" />
-<img src="https://img.shields.io/static/v1?label=Flask&message=Level%2040&color=232F3E&logo=flask&style=for-the-badge" />
-<img src="https://img.shields.io/static/v1?label=AWS SAM&message=Level%2040&color=FF9B00&logo=amazonaws&style=for-the-badge" />
-</p>
-
-* Built dozens of integrations, automations for a variety of systems 🚀; 
-
-<p align=center>
-<img src="https://img.shields.io/static/v1?label=GoLang&message=Level%2060&color=00ADD8&logo=go&style=for-the-badge" />
-</p>
-
-* Maintainer of [ZupIT/horusec](https://github.com/ZupIT/horusec) code 🛡️;
-
-<p align=center>
+<img src="https://img.shields.io/static/v1?label=Python&message=Level%2090&color=3776AB&logo=python&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Go&message=Level%2090&color=00ADD8&logo=go&style=for-the-badge" />
 <img src="https://img.shields.io/static/v1?label=Rust&message=Level%2020&color=E94D26&logo=rust&style=for-the-badge" />
 </p>
 
-* Still in development but already a language very close to my heart 💓!
+Built dozens of integrations, automations for a variety of systems 🚀;
+
+<p align=center>
+<img src="https://img.shields.io/static/v1?label=AWS SAM&message=Level%2040&color=FF9B00&logo=amazonaws&style=for-the-badge" />
+</p>
+
+Maintainer of [ZupIT/horusec](https://github.com/ZupIT/horusec) code 🛡️;
 
 ### Other Languages and Framworks
 
