@@ -16,7 +16,6 @@ Built dozens of integrations, automations for a variety of systems 🚀;
 <img src="https://img.shields.io/static/v1?label=AWS SAM&message=Level%2040&color=FF9B00&logo=amazonaws&style=for-the-badge" />
 </p>
 
-Maintainer of [ZupIT/horusec](https://github.com/ZupIT/horusec) code 🛡️;
 
 ### Other Languages and Framworks
 
