@@ -1,4 +1,5 @@
 
+
 * 👋 Hey, my name is Guilherme, I am a **Python/GoLang** developer which really loves **systems programming** and **low level software engineering**. 
   
 ### Main Languages and Frameworks
@@ -7,7 +8,7 @@ Languages I really like working with.
 <p align=center>
 <img src="https://img.shields.io/static/v1?label=Python&message=Level%2090&color=3776AB&logo=python&style=for-the-badge" />
 <img src="https://img.shields.io/static/v1?label=Go&message=Level%2090&color=00ADD8&logo=go&style=for-the-badge" />
-<img src="https://img.shields.io/static/v1?label=Rust&message=Level%2020&color=E94D26&logo=rust&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=Rust&message=Level%2040&color=E94D26&logo=rust&style=for-the-badge" />
 </p>
 
 Built dozens of integrations, automations for a variety of systems 🚀;
