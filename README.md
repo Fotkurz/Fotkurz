@@ -16,12 +16,14 @@ Languages I really like working with.
 <p align=center>
   <img src="https://img.shields.io/static/v1?label=Go&message=Level%20100&color=00ADD8&logo=go&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?label=Kotlin&message=Level%2050&color=7F52FF&logo=kotlin&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=Java&message=Level%2050&color=007396&logo=java&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Java&message=Level%2050&color=007396&logo=openjdk&style=for-the-badge" />
   <img src="https://img.shields.io/static/v1?label=Python&message=Level%2080&color=3776AB&logo=python&style=for-the-badge" />  
 </p>
 
 <p align=center>
-  
+  <img src="https://img.shields.io/static/v1?label=Gin&message=Level%2080&color=008ECF&logo=gin&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=SpringBoot&message=Level%2050&color=6DB33F&logo=springboot&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=FastAPI&message=Level%2030&color=009688&logo=fastapi&style=for-the-badge" />
 </p>
 
 Built dozens of integrations, automations for a variety of systems 🚀;
